@@ -28,6 +28,7 @@ I believe in building robust data pipelines using:
 I'm fluent in:
 - Python (my go-to for data science and ML)
 - R (for statistical analysis)
+
 I'm familiar with:
 - Javascript
 - Java
